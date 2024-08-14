@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'githubactiontestlinux'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97F27AA4598546219F1B730434186136 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D3B0CB40E4A41339C5F6F16F3D31A43 }}
